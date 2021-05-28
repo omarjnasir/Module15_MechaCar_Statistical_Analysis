@@ -340,8 +340,18 @@ sample estimates:
 mean of x 
   1496.14
 
+  ![image](https://user-images.githubusercontent.com/78710287/119915461-6edc0c80-bf17-11eb-8e63-1bad8ed6c604.png)
+
   
-  
+![image](https://user-images.githubusercontent.com/78710287/119915550-98953380-bf17-11eb-9580-c609135e8e4a.png)
+
+![image](https://user-images.githubusercontent.com/78710287/119915597-b4003e80-bf17-11eb-9449-9919213a4842.png)
+![image](https://user-images.githubusercontent.com/78710287/119915627-c5e1e180-bf17-11eb-8c98-a63de05c70bc.png)
+
+![image](https://user-images.githubusercontent.com/78710287/119915685-deea9280-bf17-11eb-8277-10f30df659c9.png)
+![image](https://user-images.githubusercontent.com/78710287/119915744-fe81bb00-bf17-11eb-8515-40e23f4b6142.png)
+![image](https://user-images.githubusercontent.com/78710287/119915799-1c4f2000-bf18-11eb-8d75-fc3d5475ef5f.png)
+![image](https://user-images.githubusercontent.com/78710287/119915874-443e8380-bf18-11eb-829f-bb6da1567cd9.png)
 
  
  
